@@ -80,7 +80,7 @@ This project is based on the following excellent resources:
   - [GPT Dataset](https://neetcode.io/problems/gpt-dataset)
   - [Code GPT](https://neetcode.io/problems/code-gpt)
   - [Make GPT Talk Back](https://neetcode.io/problems/make-gpt-talk-back)
-- **Drake Lyric Generator:** - [drake-lyric-generator](https://github.com/gptandchill/drake-lyric-generator)
+- **Drake Lyric Generator Weights:** - [drake-lyric-generator](https://github.com/gptandchill/drake-lyric-generator)
   
 
 ## 🚀 Getting Started
