@@ -1,6 +1,6 @@
 # Build Transformer Model From Scratch 
 
-How to build Transformer Modell 🤔 - Resources Included !
+How to build Transformer Model 🤔 - Resources Included !
 
 ## 📁 Repository Contents
 
