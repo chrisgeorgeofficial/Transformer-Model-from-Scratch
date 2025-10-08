@@ -1,6 +1,6 @@
-# Build Transformer Model From Scratch
+# Build Transformer Model From Scratch 
 
-How to build Transformer Modell 🤔
+How to build Transformer Modell 🤔 - Resources Included !
 
 ## 📁 Repository Contents
 
@@ -80,7 +80,7 @@ This project is based on the following excellent resources:
   - [GPT Dataset](https://neetcode.io/problems/gpt-dataset)
   - [Code GPT](https://neetcode.io/problems/code-gpt)
   - [Make GPT Talk Back](https://neetcode.io/problems/make-gpt-talk-back)
-- **Drake Lyric Generator:** - ([drake-lyric-generator](https://github.com/gptandchill/drake-lyric-generator)
+- **Drake Lyric Generator:** - [drake-lyric-generator](https://github.com/gptandchill/drake-lyric-generator)
   
 
 ## 🚀 Getting Started
@@ -393,4 +393,4 @@ This project is for educational purposes. Drake lyrics are property of their res
 
 💬 **Questions? Open an issue and let's discuss!**
 
-🎵 **Happy lyric generating!**
+🎵 **Happy Learning & Happy lyric generating!**
