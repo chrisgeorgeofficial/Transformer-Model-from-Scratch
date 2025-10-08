@@ -337,17 +337,6 @@ x = Linear(4*model_dim → model_dim)  # Contract
 x = Dropout(x)                        # Regularization
 ```
 
-## 🚀 Future Improvements
-
-- [ ] Add temperature control for generation
-- [ ] Implement top-k and nucleus sampling
-- [ ] Add beam search for better quality
-- [ ] Train on larger corpus
-- [ ] Implement word-level tokenization
-- [ ] Add model checkpointing during training
-- [ ] Create interactive web interface
-- [ ] Add lyrics evaluation metrics
-
 ## 📖 Learning Path
 
 If you're new to transformers, follow this order:
